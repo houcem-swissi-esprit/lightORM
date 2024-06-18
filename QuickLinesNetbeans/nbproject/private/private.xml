@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/services/ServiceAeroport.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/services/ServiceTransaction.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/utils/Entity.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/services/IService.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/utils/MyMapper.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/services/MyORM.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/entities/Aeroport.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/gui/ReservationController.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/gui/reservation.fxml</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/tests/MainClass.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/entities/Transaction.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/entities/Entity.java</file>
+            <file>file:/C:/Users/houce/Documents/NetBeansProjects/QuickLinesNetbeans/src/tn/quicklines/services/IORM.java</file>
+        </group>
+    </open-files>
+</project-private>
